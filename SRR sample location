@@ -1,0 +1,13 @@
+# To download the SRR Files.
+
+https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR11948590
+https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-20/SRR11948590/SRR11948590.1
+
+gs://sra-pub-src-14/SRR11948590/sample_k07-561_1.fq.gz.1
+gs://sra-pub-src-14/SRR11948590/sample_k07-561_2.fq.gz.1
+
+https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR11947553
+https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-21/SRR11947553/SRR11947553.1
+
+gs://sra-pub-src-9/SRR11947553/sample_k07-204_1.fq.gz.1
+gs://sra-pub-src-9/SRR11947553/sample_k07-204_2.fq.gz.1
