@@ -1,2 +1,2 @@
-# BMW700002W---MSc-Bioinformatics-Group-pipeline
+# BMW700002W---MSc-Bioinformatics-Group Pipeline
 Nextflow Pipeline 
